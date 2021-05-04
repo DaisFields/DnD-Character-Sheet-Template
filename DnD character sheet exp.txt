@@ -1,0 +1,2 @@
+First, the user should run characterSheet to pull up the gui. Next, they should assign their chracter's stat modifiers to
+the edit boxes. Finally, they can use the push buttons to roll each stat or roll for damage.
